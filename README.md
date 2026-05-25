@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hola, soy Enzo Coronel 👋
 
-<!--
-**troche-bit/troche-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack con más de 5 años de experiencia en entornos reales,
+actualmente finalizando Ingeniería Informática en Paraguay.
 
-Here are some ideas to get you started:
+Trabajo con stacks modernos (Python, Django REST, React, PostgreSQL) y también
+con entornos enterprise legacy (Oracle Forms, Reports y APEX).
+Me especializo en diseño de sistemas, modelado de bases de datos y resolución
+de problemas complejos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+
+**Backend**
+Python · Django REST Framework · Java · PL/SQL · Oracle APEX
+
+**Frontend**
+React · JavaScript · Oracle Forms
+
+**Bases de datos**
+PostgreSQL · Oracle DB
+
+**Herramientas**
+Git · Jasper Reports · IA aplicada al desarrollo
+
+## 🚀 Proyectos
+
+### [Clínica Lichi](https://github.com/troche-bit/clinica-lichi) *(en progreso)*
+Sistema de gestión clínica desarrollado como tesis de grado.
+Stack: React + Django REST + PostgreSQL.
+Incluye diseño completo de arquitectura, modelado de base de datos y
+desarrollo full stack.
+
+## 📌 Actualmente
+
+- 🎓 Finalizando Ingeniería Informática
+- 💼 Trabajando en proyecto Oracle APEX en empresa local
+- 🌱 Mejorando inglés técnico
+- 💡 Abierto a proyectos o freelance remotos
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Coronel-blue?logo=linkedin)](https://linkedin.com/in/TU-URL-AQUI)
