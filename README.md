@@ -39,4 +39,4 @@ desarrollo full stack.
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Coronel-blue?logo=linkedin)](https://linkedin.com/in/TU-URL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Coronel-blue?logo=linkedin)](https://www.linkedin.com/in/enzo-coronel-b1234a322?utm_source=share_via&utm_content=profile&utm_medium=member_android)
