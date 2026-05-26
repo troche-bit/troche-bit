@@ -34,8 +34,7 @@ desarrollo full stack.
 
 - 🎓 Finalizando Ingeniería Informática
 - 💼 Trabajando en proyecto Oracle APEX en empresa local
-- 🌱 Mejorando inglés técnico
-- 💡 Abierto a proyectos o freelance remotos
+- 💡 Abierto a proyectos o freelance o remotos
 
 ## 📫 Contacto
 
